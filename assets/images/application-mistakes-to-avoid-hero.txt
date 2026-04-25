@@ -1,0 +1,6 @@
+Filename: application-mistakes-to-avoid-hero.jpg
+Alt: Hero image for Common Application Mistakes and How to Avoid Delays.
+Title: Common Application Mistakes and How to Avoid Delays hero visual
+Width: 1200
+Height: 675
+Prompt: Premium editorial style illustration for U.S. eligibility guide content, clean layout, soft navy blue teal white gray palette, amber accent.

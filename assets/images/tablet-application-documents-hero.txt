@@ -1,0 +1,6 @@
+Filename: tablet-application-documents-hero.jpg
+Alt: Hero image for Documents You Need Before You Apply.
+Title: Documents You Need Before You Apply hero visual
+Width: 1200
+Height: 675
+Prompt: Premium editorial style illustration for U.S. eligibility guide content, clean layout, soft navy blue teal white gray palette, amber accent.

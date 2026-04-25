@@ -1,0 +1,6 @@
+Filename: provider-inventory-explained-hero.jpg
+Alt: Hero image for Provider Inventory: Why Device Availability Changes Weekly.
+Title: Provider Inventory: Why Device Availability Changes Weekly hero visual
+Width: 1200
+Height: 675
+Prompt: Premium editorial style illustration for U.S. eligibility guide content, clean layout, soft navy blue teal white gray palette, amber accent.
