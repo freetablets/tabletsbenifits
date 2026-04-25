@@ -41,6 +41,13 @@ Test both URLs after DNS and SSL are active:
 - Deployments should come from GitHub commits to `main`.
 - Image replacement steps are documented in `IMAGE-REPLACEMENT-GUIDE.md`.
 
+## Preview vs production URLs
+
+- Preview branch URLs look like `abf3968e.tabletsbenifits.pages.dev`.
+- Production URL is `tabletsbenifits.pages.dev`.
+- Production URL updates only after changes are merged or pushed to the production branch, usually `main`.
+- Cloudflare Pages production branch should be `main`.
+
 
 ## Cloudflare 404 troubleshooting
 
