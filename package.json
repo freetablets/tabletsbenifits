@@ -1,0 +1,12 @@
+{
+  "name": "freetabletbenefit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site automation for image generation, QA, and Cloudflare Pages deployment",
+  "scripts": {
+    "images": "node scripts/generate-images.js && node scripts/apply-generated-images.js",
+    "qa": "node scripts/qa.js",
+    "build": "npm run images && npm run qa",
+    "deploy": "npm run build && wrangler pages deploy . --project-name=freetabletbenefit"
+  }
+}

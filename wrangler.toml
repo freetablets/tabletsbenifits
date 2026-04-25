@@ -1,0 +1,9 @@
+name = "freetabletbenefit"
+compatibility_date = "2026-04-25"
+
+[pages]
+project_name = "freetabletbenefit"
+production_branch = "main"
+
+[site]
+bucket = "."

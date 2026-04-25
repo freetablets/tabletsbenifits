@@ -1,0 +1,6 @@
+Filename: compare-tablet-providers-hero.jpg
+Alt: Hero image for How to Compare Providers Without Guessing.
+Title: How to Compare Providers Without Guessing hero visual
+Width: 1200
+Height: 675
+Prompt: Premium editorial style illustration for U.S. eligibility guide content, clean layout, soft navy blue teal white gray palette, amber accent.

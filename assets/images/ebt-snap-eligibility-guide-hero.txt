@@ -1,0 +1,6 @@
+Filename: ebt-snap-eligibility-guide-hero.jpg
+Alt: Hero image for EBT and SNAP: How They Support Eligibility Checks.
+Title: EBT and SNAP: How They Support Eligibility Checks hero visual
+Width: 1200
+Height: 675
+Prompt: Premium editorial style illustration for U.S. eligibility guide content, clean layout, soft navy blue teal white gray palette, amber accent.

@@ -1,0 +1,6 @@
+Filename: tablet-application-documents-detail.jpg
+Alt: Detail image for Documents You Need Before You Apply.
+Title: Documents You Need Before You Apply detail visual
+Width: 1200
+Height: 800
+Prompt: Supporting explainer image for U.S. tablet benefit guidance, trustworthy editorial look, simple icons and documents, soft navy blue teal white gray palette, amber accent.
