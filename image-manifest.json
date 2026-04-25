@@ -1,0 +1,312 @@
+[
+  {
+    "page_url": "/",
+    "image_type": "hero",
+    "required_filename": "homepage-hero.webp",
+    "required_folder": "assets/images/final/home/",
+    "width": 1600,
+    "height": 900,
+    "alt_text": "Homepage hero image showing tablet benefit guidance planning at a desk.",
+    "title_text": "Homepage hero image"
+  },
+  {
+    "page_url": "/government-tablet/",
+    "image_type": "featured",
+    "required_filename": "government-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Government Tablet Guide 2026 with tablet benefit guidance context.",
+    "title_text": "Free Government Tablet Guide 2026 featured image"
+  },
+  {
+    "page_url": "/government-tablet/",
+    "image_type": "infographic",
+    "required_filename": "government-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Government Tablet Guide 2026 showing eligibility and document workflow.",
+    "title_text": "Free Government Tablet Guide 2026 infographic"
+  },
+  {
+    "page_url": "/ebt-tablet/",
+    "image_type": "featured",
+    "required_filename": "ebt-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Tablet With EBT: Eligibility, Providers, and Documents with tablet benefit guidance context.",
+    "title_text": "Free Tablet With EBT: Eligibility, Providers, and Documents featured image"
+  },
+  {
+    "page_url": "/ebt-tablet/",
+    "image_type": "infographic",
+    "required_filename": "ebt-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Tablet With EBT: Eligibility, Providers, and Documents showing eligibility and document workflow.",
+    "title_text": "Free Tablet With EBT: Eligibility, Providers, and Documents infographic"
+  },
+  {
+    "page_url": "/medicaid-tablet/",
+    "image_type": "featured",
+    "required_filename": "medicaid-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Tablet With Medicaid: What Actually Works in 2026 with tablet benefit guidance context.",
+    "title_text": "Free Tablet With Medicaid: What Actually Works in 2026 featured image"
+  },
+  {
+    "page_url": "/medicaid-tablet/",
+    "image_type": "infographic",
+    "required_filename": "medicaid-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Tablet With Medicaid: What Actually Works in 2026 showing eligibility and document workflow.",
+    "title_text": "Free Tablet With Medicaid: What Actually Works in 2026 infographic"
+  },
+  {
+    "page_url": "/phone-tablet-bundle/",
+    "image_type": "featured",
+    "required_filename": "phone-tablet-bundle-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Government Phone and Tablet: Real Provider Options with tablet benefit guidance context.",
+    "title_text": "Free Government Phone and Tablet: Real Provider Options featured image"
+  },
+  {
+    "page_url": "/phone-tablet-bundle/",
+    "image_type": "infographic",
+    "required_filename": "phone-tablet-bundle-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Government Phone and Tablet: Real Provider Options showing eligibility and document workflow.",
+    "title_text": "Free Government Phone and Tablet: Real Provider Options infographic"
+  },
+  {
+    "page_url": "/lifeline-tablet/",
+    "image_type": "featured",
+    "required_filename": "lifeline-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Lifeline Free Tablet: What Lifeline Covers in 2026 with tablet benefit guidance context.",
+    "title_text": "Lifeline Free Tablet: What Lifeline Covers in 2026 featured image"
+  },
+  {
+    "page_url": "/lifeline-tablet/",
+    "image_type": "infographic",
+    "required_filename": "lifeline-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Lifeline Free Tablet: What Lifeline Covers in 2026 showing eligibility and document workflow.",
+    "title_text": "Lifeline Free Tablet: What Lifeline Covers in 2026 infographic"
+  },
+  {
+    "page_url": "/low-income-tablet/",
+    "image_type": "featured",
+    "required_filename": "low-income-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Tablet for Low Income Families with tablet benefit guidance context.",
+    "title_text": "Free Tablet for Low Income Families featured image"
+  },
+  {
+    "page_url": "/low-income-tablet/",
+    "image_type": "infographic",
+    "required_filename": "low-income-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Tablet for Low Income Families showing eligibility and document workflow.",
+    "title_text": "Free Tablet for Low Income Families infographic"
+  },
+  {
+    "page_url": "/food-stamps-tablet/",
+    "image_type": "featured",
+    "required_filename": "food-stamps-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Free Tablet With Food Stamps: Application Guide with tablet benefit guidance context.",
+    "title_text": "Free Tablet With Food Stamps: Application Guide featured image"
+  },
+  {
+    "page_url": "/food-stamps-tablet/",
+    "image_type": "infographic",
+    "required_filename": "food-stamps-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Free Tablet With Food Stamps: Application Guide showing eligibility and document workflow.",
+    "title_text": "Free Tablet With Food Stamps: Application Guide infographic"
+  },
+  {
+    "page_url": "/airtalk-tablet/",
+    "image_type": "featured",
+    "required_filename": "airtalk-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for AirTalk Wireless Tablet Guide with tablet benefit guidance context.",
+    "title_text": "AirTalk Wireless Tablet Guide featured image"
+  },
+  {
+    "page_url": "/airtalk-tablet/",
+    "image_type": "infographic",
+    "required_filename": "airtalk-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for AirTalk Wireless Tablet Guide showing eligibility and document workflow.",
+    "title_text": "AirTalk Wireless Tablet Guide infographic"
+  },
+  {
+    "page_url": "/qlink-tablet/",
+    "image_type": "featured",
+    "required_filename": "qlink-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Q Link Wireless Tablet and Phone Guide with tablet benefit guidance context.",
+    "title_text": "Q Link Wireless Tablet and Phone Guide featured image"
+  },
+  {
+    "page_url": "/qlink-tablet/",
+    "image_type": "infographic",
+    "required_filename": "qlink-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Q Link Wireless Tablet and Phone Guide showing eligibility and document workflow.",
+    "title_text": "Q Link Wireless Tablet and Phone Guide infographic"
+  },
+  {
+    "page_url": "/assurance-tablet/",
+    "image_type": "featured",
+    "required_filename": "assurance-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Assurance Wireless Tablet Guide with tablet benefit guidance context.",
+    "title_text": "Assurance Wireless Tablet Guide featured image"
+  },
+  {
+    "page_url": "/assurance-tablet/",
+    "image_type": "infographic",
+    "required_filename": "assurance-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Assurance Wireless Tablet Guide showing eligibility and document workflow.",
+    "title_text": "Assurance Wireless Tablet Guide infographic"
+  },
+  {
+    "page_url": "/standup-tablet/",
+    "image_type": "featured",
+    "required_filename": "standup-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for StandUp Wireless Tablet Guide with tablet benefit guidance context.",
+    "title_text": "StandUp Wireless Tablet Guide featured image"
+  },
+  {
+    "page_url": "/standup-tablet/",
+    "image_type": "infographic",
+    "required_filename": "standup-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for StandUp Wireless Tablet Guide showing eligibility and document workflow.",
+    "title_text": "StandUp Wireless Tablet Guide infographic"
+  },
+  {
+    "page_url": "/truconnect-tablet/",
+    "image_type": "featured",
+    "required_filename": "truconnect-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for TruConnect Tablet Guide with tablet benefit guidance context.",
+    "title_text": "TruConnect Tablet Guide featured image"
+  },
+  {
+    "page_url": "/truconnect-tablet/",
+    "image_type": "infographic",
+    "required_filename": "truconnect-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for TruConnect Tablet Guide showing eligibility and document workflow.",
+    "title_text": "TruConnect Tablet Guide infographic"
+  },
+  {
+    "page_url": "/safelink-tablet/",
+    "image_type": "featured",
+    "required_filename": "safelink-tablet-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for SafeLink Tablet Guide with tablet benefit guidance context.",
+    "title_text": "SafeLink Tablet Guide featured image"
+  },
+  {
+    "page_url": "/safelink-tablet/",
+    "image_type": "infographic",
+    "required_filename": "safelink-tablet-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for SafeLink Tablet Guide showing eligibility and document workflow.",
+    "title_text": "SafeLink Tablet Guide infographic"
+  },
+  {
+    "page_url": "/tablet-documents/",
+    "image_type": "featured",
+    "required_filename": "tablet-documents-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for Documents Needed for Tablet Benefit Applications with tablet benefit guidance context.",
+    "title_text": "Documents Needed for Tablet Benefit Applications featured image"
+  },
+  {
+    "page_url": "/tablet-documents/",
+    "image_type": "infographic",
+    "required_filename": "tablet-documents-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for Documents Needed for Tablet Benefit Applications showing eligibility and document workflow.",
+    "title_text": "Documents Needed for Tablet Benefit Applications infographic"
+  },
+  {
+    "page_url": "/acp-tablet-update/",
+    "image_type": "featured",
+    "required_filename": "acp-tablet-update-featured.webp",
+    "required_folder": "assets/images/final/posts/",
+    "width": 1200,
+    "height": 630,
+    "alt_text": "Featured image for ACP Free Tablet Update: What Changed After ACP Ended with tablet benefit guidance context.",
+    "title_text": "ACP Free Tablet Update: What Changed After ACP Ended featured image"
+  },
+  {
+    "page_url": "/acp-tablet-update/",
+    "image_type": "infographic",
+    "required_filename": "acp-tablet-update-infographic.webp",
+    "required_folder": "assets/images/final/infographics/",
+    "width": 900,
+    "height": 1200,
+    "alt_text": "Infographic for ACP Free Tablet Update: What Changed After ACP Ended showing eligibility and document workflow.",
+    "title_text": "ACP Free Tablet Update: What Changed After ACP Ended infographic"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "freetabletbenefit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site automation for image generation, QA, and Cloudflare Pages deployment",
+  "scripts": {
+    "qa": "node scripts/qa.js",
+    "verify:deploy-root": "node scripts/verify-deploy-root.js",
+    "build": "npm run verify:deploy-root && npm run qa"
+  }
+}
